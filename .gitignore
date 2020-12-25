@@ -1,1 +1,12 @@
 data/
+
+# need to go find these files which might be symbolic links
+*.h5
+*.png
+*.jpg
+*.txt
+*.mp4
+*.csv
+*.jpeg
+*.mat
+*.npy
