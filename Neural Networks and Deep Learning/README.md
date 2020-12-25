@@ -5,6 +5,8 @@
 ## Week 2 - Neural Network Basics
 - [Practice Programming Assignment: Python Basics with numpy (optional)](week-2/python-basics-with-numpy/python\_basics\_with\_numpy\_v3a.ipynb)
 - [h](./Week-2/Python-Basics-with-Numpy/Python\_Basics\_With\_Numpy\_v3a.ipynb)
+- [h](./Week-2/Python-Basics-with-Numpy/Python-Basics-With-Numpy-v3.ipynb)
+- [h](./week-2/python-basics-with-numpy/python-basics-with-mumpy-v3.ipynb)
 - [Programming Assignment: Logistic Regression with a Neural Network mindset](./week-2/logistic-regression-as a-neural-network/logistic-regression-with-a-neural-network-mindset-v6a.ipynb)
 
 ## Week 3 - Shallow Neural Networks
