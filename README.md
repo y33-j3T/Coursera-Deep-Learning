@@ -23,6 +23,11 @@ This repository contains the materials as well as my solutions for courses on Co
 ### 4. [Convolutional Neural Networks](https://github.com/y33-j3T/Coursera/tree/master/Convolutional%20Neural%20Networks)
 ### 5. [Sequence Models](https://github.com/y33-j3T/Coursera/tree/master/Sequence%20Models)
 
+### Generative Adversarial Networks (GANs) (Specialization)
+### 1. [Build Basic Generative Adversarial Networks (GANs)](https://github.com/y33-j3T/Coursera/tree/master/Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs))
+### 2. [Build Better Generative Adversarial Networks (GANs)](https://github.com/y33-j3T/Coursera/tree/master/Build%20Better%20Generative%20Adversarial%20Networks%20(GANs))
+### 3. [Apply Generative Adversarial Networks (GANs)](https://github.com/y33-j3T/Coursera/tree/master/Apply%20Generative%20Adversarial%20Networks%20(GANs))
+
 ## Contributing
 - Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
 
