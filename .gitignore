@@ -10,3 +10,4 @@ data/
 *.jpeg
 *.mat
 *.npy
+*.pth
