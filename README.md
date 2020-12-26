@@ -15,12 +15,12 @@ This repository contains my solutions for labs and programming assignments on Co
 ### 1. [Custom Models, Layers, and Loss Functions with TensorFlow](https://github.com/y33-j3T/Coursera/tree/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow)
 ### 2. [Custom and Distributed Training with Tensorflow](https://github.com/y33-j3T/Coursera/tree/master/Custom%20and%20Distributed%20Training%20with%20Tensorflow)
 ### 3. [Advanced Computer Vision with TensorFlow](https://github.com/y33-j3T/Coursera/tree/master/Advanced%20Computer%20Vision%20with%20TensorFlow)
-
+---
 ### Generative Adversarial Networks (GANs) (Specialization)
 ### 1. [Build Basic Generative Adversarial Networks (GANs)](https://github.com/y33-j3T/Coursera/tree/master/Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs))
 ### 2. [Build Better Generative Adversarial Networks (GANs)](https://github.com/y33-j3T/Coursera/tree/master/Build%20Better%20Generative%20Adversarial%20Networks%20(GANs))
 ### 3. [Apply Generative Adversarial Networks (GANs)](https://github.com/y33-j3T/Coursera/tree/master/Apply%20Generative%20Adversarial%20Networks%20(GANs))
-
+---
 ### Deep Learning (Specialization)
 ### 1. [Neural Networks and Deep Learning](https://github.com/y33-j3T/Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning)
 ### 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/y33-j3T/Coursera/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
