@@ -8,7 +8,7 @@ Materials from Coursera courses.
 - [License](#License)
 
 ## Introduction
-This repository contains the materials as well as my solutions for courses on Coursera.
+This repository contains my solutions for labs and programming assignments on Coursera courses. Certain resources required by the codes may be lacking due to limitations on downloading course materials from Coursera. The lacking resources are mostly datasets, pre-trained models or certain weight matrices.
 
 ## Courses
 ### TensorFlow: Advanced Techniques (Specialization)
