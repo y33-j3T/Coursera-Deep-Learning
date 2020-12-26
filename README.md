@@ -1,5 +1,5 @@
 # Coursera
-Materials from Coursera courses.
+My notes / works from Coursera courses.
 
 ## Contents
 - [Introduction](#Introduction)
