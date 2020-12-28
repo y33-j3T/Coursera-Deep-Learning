@@ -16,6 +16,12 @@ This repository contains my solutions for labs and programming assignments on Co
 ### 2. [Custom and Distributed Training with Tensorflow](https://github.com/y33-j3T/Coursera/tree/master/Custom%20and%20Distributed%20Training%20with%20Tensorflow)
 ### 3. [Advanced Computer Vision with TensorFlow](https://github.com/y33-j3T/Coursera/tree/master/Advanced%20Computer%20Vision%20with%20TensorFlow)
 ---
+### DeepLearning.AI TensorFlow Developer (Specialization)
+### 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/y33-j3T/Coursera/tree/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
+### 2. [Convolutional Neural Networks in TensorFlow](https://github.com/y33-j3T/Coursera/tree/master/Convolutional%20Neural%20Networks%20in%20TensorFlow)
+### 3. [Natural Language Processing in TensorFlow](https://github.com/y33-j3T/Coursera/tree/master/Natural%20Language%20Processing%20in%20TensorFlow)
+### 4. [Sequences, Time Series and Prediction](https://github.com/y33-j3T/Coursera/tree/master/Sequences%2C%20Time%20Series%20and%20Prediction)
+---
 ### Generative Adversarial Networks (GANs) (Specialization)
 ### 1. [Build Basic Generative Adversarial Networks (GANs)](https://github.com/y33-j3T/Coursera/tree/master/Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs))
 ### 2. [Build Better Generative Adversarial Networks (GANs)](https://github.com/y33-j3T/Coursera/tree/master/Build%20Better%20Generative%20Adversarial%20Networks%20(GANs))
