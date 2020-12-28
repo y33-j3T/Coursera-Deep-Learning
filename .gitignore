@@ -12,3 +12,4 @@ data/
 *.npy
 *.pth
 weights
+*.pkl.gz
