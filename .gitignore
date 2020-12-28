@@ -11,3 +11,6 @@ data/
 *.mat
 *.npy
 *.pth
+weights
+.nfsb0002e6cb77c568100000071
+*.pkl.gz
