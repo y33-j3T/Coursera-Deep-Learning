@@ -15,6 +15,34 @@ This repository contains my solutions for labs and programming assignments on Co
 ### 1. [Custom Models, Layers, and Loss Functions with TensorFlow](https://github.com/y33-j3T/Coursera/tree/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow)
 ### 2. [Custom and Distributed Training with Tensorflow](https://github.com/y33-j3T/Coursera/tree/master/Custom%20and%20Distributed%20Training%20with%20Tensorflow)
 ### 3. [Advanced Computer Vision with TensorFlow](https://github.com/y33-j3T/Coursera/tree/master/Advanced%20Computer%20Vision%20with%20TensorFlow)
+<details>
+<summary>Details</summary>
+
+#### Week 1 - Introduction to Computer Vision
+- [Lab: Transfer Learning](./)
+- [Lab: Transfer Learning with ResNet 50](./)
+- [Lab: Image Classification and Object Localization](./)
+- [Programming Assignment: Bird Boxes](./)
+
+#### Week 2 - Object Detection
+- [Lab: Implement Simple Object Detection](./)
+- [Lab: Predicting Bounding Boxes for Object Detection](./)
+- [Programming Assignment: Zombie Detector](./)
+
+#### Week 3 - Image Segmentation
+- [Lab: Implement a Fully Convolutional Neural Network](./)
+- [Lab: Implement a UNet](./)
+- [Lab: Instance Segmentation Demo](./)
+- [Programming Assignment: Image Segmentation of Handwritten Digits](./)
+
+#### Week 4 - Visualization and Interpretability
+- [Lab: Class Activation Maps with Fashion MNIST (Lab #1)](./)
+- [Lab: Class Activation Maps "Cats vs Dogs" (Lab #2)](./)
+- [Lab: Saliency Maps (Lab #3)](./)
+- [Lab: GradCAM (Lab #4)](./)
+- [Programming Assignment: Cats vs Dogs Saliency Maps](./)
+
+</details>
 ---
 ### DeepLearning.AI TensorFlow Developer (Specialization)
 ### 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/y33-j3T/Coursera/tree/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
