@@ -8,7 +8,7 @@
 ## Week 2 - Custom Loss Functions
 - [Lab: Huber Loss lab](https://github.com/y33-j3T/Coursera/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%202%20-%20Custom%20Loss%20Functions/C1_W2_Lab_1_huber-loss.ipynb)
 - [Lab: Huber Loss object](https://github.com/y33-j3T/Coursera/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%202%20-%20Custom%20Loss%20Functions/C1_W2_Lab_2_huber-object-loss.ipynb)
-- [Lab: Contrastive loss in the siamese network)](https://github.com/y33-j3T/Coursera/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201%20-%20Functional%20APIs/C1_W1_Lab_3_siamese-network.ipynb) (same as week 1's siamese network
+- [Lab: Contrastive loss in the siamese network)](https://github.com/y33-j3T/Coursera/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201%20-%20Functional%20APIs/C1_W1_Lab_3_siamese-network.ipynb) (same as week 1's siamese network)
 - [Programming Assignment: Creating a custom loss function](https://github.com/y33-j3T/Coursera/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%202%20-%20Custom%20Loss%20Functions/C1W2_Assignment.ipynb)
 
 ## Week 3 - Custom Layers
