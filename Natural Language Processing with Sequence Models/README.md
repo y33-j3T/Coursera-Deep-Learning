@@ -5,7 +5,7 @@
 - [Lab: Data Generators](https://github.com/y33-j3T/Coursera/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201%20-%20Neural%20Netowrks%20for%20Sentiment%20Analysis/NLP_C3_W1_lecture_nb_03_data_generatos.ipynb)
 - [Programming Assignment: Sentiment with Deep Neural Networks](https://github.com/y33-j3T/Coursera/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201%20-%20Neural%20Netowrks%20for%20Sentiment%20Analysis/C3_W1_Assignment.ipynb)
 
-## Week 2 - Recureent Neural Networks for Language Modelling
+## Week 2 - Recurrent Neural Networks for Language Modelling
 - [Lab: Hidden State Activation](https://github.com/y33-j3T/Coursera/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202%20-%20Recureent%20Neural%20Networks%20for%20Language%20Modelling/C3_W2_Lecture_Notebook_Hidden_State_Activation.ipynb)
 - [Lab: Working with JAX NumPy and Calculating Perplexity](https://github.com/y33-j3T/Coursera/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202%20-%20Recureent%20Neural%20Networks%20for%20Language%20Modelling/C3_W2_lecture_notebook_perplexity.ipynb)
 - [Lab: Vanilla RNNs, GRUs and the scan function](https://github.com/y33-j3T/Coursera/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202%20-%20Recureent%20Neural%20Networks%20for%20Language%20Modelling/C3_W2_lecture_notebook_RNNs.ipynb)
