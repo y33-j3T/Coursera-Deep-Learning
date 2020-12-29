@@ -3,15 +3,12 @@
 - No labs / programming assignments
 
 ## Week 2 - Neural Network Basics
-- [Practice Programming Assignment: Python Basics with numpy (optional)](/week-2/python-basics-with-numpy/python\_basics\_with\_numpy\_v3a.ipynb)
-- [h](/Week-2/Python-Basics-with-Numpy/Python\_Basics\_With\_Numpy\_v3a.ipynb)
-- [h](/Week-2/Python-Basics-with-Numpy/Python-Basics-With-Numpy-v3.ipynb)
-- [h](./week-2/python-basics-with-numpy/images/sigmoid.png)
-- [Programming Assignment: Logistic Regression with a Neural Network mindset](./week-2/logistic-regression-as a-neural-network/logistic-regression-with-a-neural-network-mindset-v6a.ipynb)
+- [Practice Programming Assignment: Python Basics with numpy (optional)](https://github.com/y33-j3T/Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
+- [Programming Assignment: Logistic Regression with a Neural Network mindset](https://github.com/y33-j3T/Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 
 ## Week 3 - Shallow Neural Networks
-- [Programming Assignment: Planar data classification with a hidden layer](./week-3/planar-data-classification-with-one-hidden-layer/planar-data-classification-with-onehidden-layer-v6c.ipynb)
+- [Programming Assignment: Planar data classification with a hidden layer](https://github.com/y33-j3T/Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 
 ## Week 4 - Deep Neural Networks
-- [Programming Assignment: Building your deep neural network: Step by Step](./week-4/building-your-deep-neural-network---step-by-step/building-your-deep-neural-network-step-by-step-v8a.ipynb)
-- [Programming Assignment: Deep Neural Network Application](./week-4/deep-neural-network-application-image-classification/deep-neural-network---application-v8.ipynb)
+- [Programming Assignment: Building your deep neural network: Step by Step](https://github.com/y33-j3T/Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+- [Programming Assignment: Deep Neural Network Application](https://github.com/y33-j3T/Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20Application%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
