@@ -1,0 +1,17 @@
+readonly
+week1/datasets/
+week2/KerasTutorial/datasets/
+week2/KerasTutorial/images/
+week2/ResNets/datasets/
+week2/ResNets/images/
+week2/ResNets/ResNet50.h5
+week4/Face Recognition/weights
+week4/Face Recognition/images
+week4/Face Recognition/datasets
+week4/Neural Style Transfer/pretrained-model
+week4/Neural Style Transfer/images
+week3/Car detection for Autonomous Driving/model_data
+week3/Car detection for Autonomous Driving/images
+week3/Car detection for Autonomous Driving/nb_images
+week4/archive_name.tar.gz
+week4/Face\ Recognition/nn4.small2.v7.h5
